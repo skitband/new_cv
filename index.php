@@ -4,7 +4,7 @@
 <meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Serjio Lio - Web Developer</title>
+<title>Serjo Lio - Web Developer</title>
 
 <!-- Favicons
 ================================================== -->
@@ -373,15 +373,6 @@
                         </div>
                         <span class="progress-type">Javascript</span>
                         <span class="progress-completed">70%</span>
-                      </div>
-                    </li>
-                    <li>
-                      <div class="progress">
-                        <div class="progress-bar progress-bar-3" data-percent="40%" role="progressbar" style="width: 40%;">
-                            <span class="sr-only">40% React.js</span>
-                        </div>
-                        <span class="progress-type">JQuery</span>
-                        <span class="progress-completed">40%</span>
                       </div>
                     </li>
                     <li>
