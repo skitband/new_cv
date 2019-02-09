@@ -133,7 +133,7 @@
 	            <!-- Buttons -->
 	            <div class="resume-buttons header-page-buttons">
 	            	<!-- Download CV button -->
-					<a href="CV2018.pdf" class="btn btn-default btn-default2"><i class="fa fa-download"></i>&nbsp; Download my resume</a>
+					<a href="CV2019.pdf" class="btn btn-default btn-default2"><i class="fa fa-download"></i>&nbsp; Download my resume</a>
 	            	<!-- /Download CV button -->
 	            	<!-- Get in Touch button -->
 					<a href="#page-contact" class="btn btn-default btn-default2 link-page"><i class="fa fa-download"></i>&nbsp;  Get in Touch</a>
@@ -174,16 +174,21 @@
 	            <!-- Resume Item -->
 				<div class="resume-item">
 					<!-- Work Place -->
-                  	<h3 class="section-item-title-1">Traxion Technologies</h3>
+                  	<h3 class="section-item-title-1">Gavatech / Traxion</h3>
                   	<!-- /Work Place -->
                   	<!-- Job Time -->
                   	<h4 class="job">PHP Developer - <span class="job-date">2018 - Present</span></h4>
                   	<!-- /Job Time-->
                   	<!-- content -->
                   	<div class="graduation-description">
-                  	  <p>
-                  	  	
-                  	  </p>
+                  	  <p>- Develop comprehensive application testing procedures.</p>
+                  	  <p>- Implement testing tools that monitor the ongoing performance of the company website.</p>
+                  	  <p>- Create support documentation for all new applications.</p>
+                  	  <p>- Create web models or prototypes that include physical, interface, logical, or data models.</p>
+                  	  <p>- Design, build, or maintain web sites, using authoring or scripting languages, content creation tools, management tools, and digital media.</p>
+                  	  <p>- Evaluate code to ensure that it is valid, is properly structured, meets industry standards and is compatible with browsers, devices, or operating systems.</p>
+                  	  <p>- Maintain understanding of current web technologies or programming practices through continuing education, reading, or participation in professional conferences, workshops, or groups.</p>
+                  	  <p>- Identify or maintain links to and from other web sites and check links to ensure proper functioning.</p>
                   	</div>
                   	<!-- /Content -->
 				</div>
@@ -423,50 +428,50 @@
 					<!-- item -->
 					<div class="project-item">
 						<!-- ==> Put your thumbnail as a background -->
-						<a href="img/portfolio/p1.jpg" class="project-thumbnail nivobox" data-lightbox-gallery="portfolio" style="background-image: url('img/portfolio/thumb-p1.jpg');">
+						<a href="https://bookitapp.tech/" class="project-thumbnail nivobox" data-lightbox-gallery="portfolio" style="background-image: url('img/portfolio/bookitapp.png');">
 							<!-- project-description -->
 							<div class="project-description-wrapper">
 								<div class="project-description">
 									<!-- project name -->
-									<h2 class="project-title">Project Title</h2>
+									<h2 class="project-title">BookitApp</h2>
 									<!-- /project name -->
-									<span class="see-more">Project Tags</span>
+									<span class="see-more">Book to be served anytime, anywhere.</span>
 								</div>
 							</div>
 							<!-- /project-description -->
 						</a>
 					</div>			
 					<!-- /item -->
-
+					<br>
 					<!-- item -->
 					<div class="project-item">
 						<!-- ==> Put your thumbnail as a background -->
-						<a href="img/portfolio/p2.jpg" class="project-thumbnail nivobox" data-lightbox-gallery="portfolio" style="background-image: url('img/portfolio/thumb-p2.jpg');">
+						<a href="https://traxiontech.net/" class="project-thumbnail nivobox" data-lightbox-gallery="portfolio" style="background-image: url('img/portfolio/traxion.png');">
 							<!-- project-description -->
 							<div class="project-description-wrapper">
 								<div class="project-description">
 									<!-- project name -->
-									<h2 class="project-title">Project Title</h2>
+									<h2 class="project-title">Traxion</h2>
 									<!-- /project name -->
-									<span class="see-more">Project Tags</span>
+									<span class="see-more">Transforming Transaction Management with Blockcahin Technology</span>
 								</div>
 							</div>
 							<!-- /project-description -->
 						</a>
 					</div>			
 					<!-- /item -->
-
+					<br>
 					<!-- item -->
 					<div class="project-item">
 						<!-- ==> Put your thumbnail as a background -->
-						<a href="img/portfolio/p3.jpg" class="project-thumbnail nivobox" data-lightbox-gallery="portfolio" style="background-image: url('img/portfolio/thumb-p3.jpg');">
+						<a href="https://www.gavagives.com/" class="project-thumbnail nivobox" data-lightbox-gallery="portfolio" style="background-image: url('img/portfolio/gava.png');">
 							<!-- project-description -->
 							<div class="project-description-wrapper">
 								<div class="project-description">
 									<!-- project name -->
-									<h2 class="project-title">Project Title</h2>
+									<h2 class="project-title">GavaGives</h2>
 									<!-- /project name -->
-									<span class="see-more">Project Tags</span>
+									<span class="see-more">Crowdfunding Platform</span>
 								</div>
 							</div>
 							<!-- /project-description -->
