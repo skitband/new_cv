@@ -377,15 +377,6 @@
                     </li>
                     <li>
                       <div class="progress">
-                        <div class="progress-bar progress-bar-3" data-percent="40%" role="progressbar" style="width: 40%;">
-                            <span class="sr-only">40% React.js</span>
-                        </div>
-                        <span class="progress-type">JQuery</span>
-                        <span class="progress-completed">40%</span>
-                      </div>
-                    </li>
-                    <li>
-                      <div class="progress">
                         <div class="progress-bar progress-bar-2" data-percent="50%" role="progressbar" style="width: 50%;">
                             <span class="sr-only">50% Wordpress</span>
                         </div>
