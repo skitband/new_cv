@@ -310,7 +310,7 @@
 				<!-- Buttons -->
 	            <div class="resume-buttons">
 	            	<!-- Download CV button -->
-					<a href="CV2018.pdf" class="btn btn-default btn-default2"><i class="fa fa-download"></i>&nbsp; Download my resume</a>
+					<a href="CV2019.pdf" class="btn btn-default btn-default2"><i class="fa fa-download"></i>&nbsp; Download my resume</a>
 	            	<!-- /Download CV button -->
 	            	<!-- Get in Touch button -->
 					<a href="#page-contact" class="btn btn-default btn-default2 link-page"><i class="fa fa-download"></i>&nbsp;  Get in Touch</a>
@@ -425,25 +425,37 @@
 	            <!-- Projects list -->
 				<div class="projects-list">
 
-					<!-- item -->
 					<div class="project-item">
 						<!-- ==> Put your thumbnail as a background -->
-						<a href="https://bookitapp.tech/" class="project-thumbnail nivobox" data-lightbox-gallery="portfolio" style="background-image: url('img/portfolio/bookitapp.png');">
+						<a href="https://www.gavagives.com/" class="project-thumbnail nivobox" data-lightbox-gallery="portfolio" style="background-image: url('img/portfolio/gava.png');">
 							<!-- project-description -->
 							<div class="project-description-wrapper">
 								<div class="project-description">
 									<!-- project name -->
-									<h2 class="project-title">BookitApp</h2>
+									<h2 class="project-title">GavaGives</h2>
 									<!-- /project name -->
-									<span class="see-more">Book to be served anytime, anywhere.</span>
+									<span class="see-more">Crowdfunding Platform</span>
+								</div>
+							</div>
+							<!-- /project-description -->
+						</a>
+					</div>
+					<div class="project-item">
+						<!-- ==> Put your thumbnail as a background -->
+						<a href="https://ifarms.ph/" class="project-thumbnail nivobox" data-lightbox-gallery="portfolio" style="background-image: url('img/portfolio/ifarms.png');">
+							<!-- project-description -->
+							<div class="project-description-wrapper">
+								<div class="project-description">
+									<!-- project name -->
+									<h2 class="project-title">iFarms PH</h2>
+									<!-- /project name -->
+									<span class="see-more">Redefining Philippine Agriculture</span>
 								</div>
 							</div>
 							<!-- /project-description -->
 						</a>
 					</div>			
-					<!-- /item -->
 					<br>
-					<!-- item -->
 					<div class="project-item">
 						<!-- ==> Put your thumbnail as a background -->
 						<a href="https://traxiontech.net/" class="project-thumbnail nivobox" data-lightbox-gallery="portfolio" style="background-image: url('img/portfolio/traxion.png');">
@@ -459,25 +471,8 @@
 							<!-- /project-description -->
 						</a>
 					</div>			
-					<!-- /item -->
 					<br>
-					<!-- item -->
-					<div class="project-item">
-						<!-- ==> Put your thumbnail as a background -->
-						<a href="https://www.gavagives.com/" class="project-thumbnail nivobox" data-lightbox-gallery="portfolio" style="background-image: url('img/portfolio/gava.png');">
-							<!-- project-description -->
-							<div class="project-description-wrapper">
-								<div class="project-description">
-									<!-- project name -->
-									<h2 class="project-title">GavaGives</h2>
-									<!-- /project name -->
-									<span class="see-more">Crowdfunding Platform</span>
-								</div>
-							</div>
-							<!-- /project-description -->
-						</a>
-					</div>			
-					<!-- /item -->
+								
 
 
 					
