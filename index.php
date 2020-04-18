@@ -315,7 +315,7 @@
 				<!-- Buttons -->
 	            <div class="resume-buttons">
 	            	<!-- Download CV button -->
-					<a href="CV2018.pdf" class="btn btn-default btn-default2"><i class="fa fa-download"></i>&nbsp; Download my resume</a>
+					<a href="CV2019.pdf" class="btn btn-default btn-default2"><i class="fa fa-download"></i>&nbsp; Download my resume</a>
 	            	<!-- /Download CV button -->
 	            	<!-- Get in Touch button -->
 					<a href="#page-contact" class="btn btn-default btn-default2 link-page"><i class="fa fa-download"></i>&nbsp;  Get in Touch</a>
@@ -434,10 +434,7 @@
 							</div>
 							<!-- /project-description -->
 						</a>
-					</div>			
-					<!-- /item -->
-					<br>
-					<!-- item -->
+					</div>
 					<div class="project-item">
 						<!-- ==> Put your thumbnail as a background -->
 						<a href="https://dbtkco.com/" target="_blank" class="project-thumbnail nivobox" data-lightbox-gallery="portfolio" style="background-image: url('img/portfolio/dbtk.png');">
@@ -453,9 +450,7 @@
 							<!-- /project-description -->
 						</a>
 					</div>			
-					<!-- /item -->
 					<br>
-					<!-- item -->
 					<div class="project-item">
 						<!-- ==> Put your thumbnail as a background -->
 						<a href="https://traxiontech.net/" target="_blank" class="project-thumbnail nivobox" data-lightbox-gallery="portfolio" style="background-image: url('img/portfolio/traxion.png');">
@@ -471,7 +466,8 @@
 							<!-- /project-description -->
 						</a>
 					</div>			
-					<!-- /item -->
+					<br>
+								
 
 
 					
