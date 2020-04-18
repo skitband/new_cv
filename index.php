@@ -80,35 +80,18 @@
 			<!-- Profile pic-->
 			<div class="vcard-profile-pic">
 				<img src="img/grad_pic.jpg" id="profile2"  alt=""/>
-				<img src="img/grad_pic.jpg" id="profile1" class="profileActive" alt=""/>
+				<img src="img/pic.jpg" id="profile1" class="profileActive" alt=""/>
 			</div>
 			<!-- /Profile pic -->
 			<!-- Description -->
 			<div class="vcard-profile-description">
 				<!-- Profile title -->
-				<h1 class="profile-title">Hi, i'm <span class="color1">Serjo!</span></h1>
+				<h1 class="profile-title">Hi, I'm <span class="color1">Serjo!</span></h1>
 				<h2 class="profile-subtitle">Web Developer</h2>
-				<!-- /Profile Title -->
-				<!-- Description Text -->
-				<hr class="hr1">
-				<div class="vcard-profile-description-text">
-					<p>Highly trained and experienced Web Developer based on Manila Philippines. Sometimes working as a freelancer.</p>
-				</div>	
-				<!--/ Description Text -->	
-				<!-- Description feature -->
-				<div class="vcard-profile-description-feature">
-					<!-- item -->
-					<div class="vcard-profile-description-ft-item">
-						<p>email:  serjomlio@gmail.com / mobile: +63 9279420308</p>
-					</div>
-					<!-- item -->
-				</div>	
-				<!-- /Description feature -->		
-			</div>
-			<!-- /Description -->	
-			<!-- Footer -->		
-			<div class="vcard-footer">
+
+				<div class="vcard-footer">
 				<!-- Social Icons -->
+				<!-- <i style="color: black;font-weight: 300;font-size: 12px">Manila Philippines</i> -->
 				<div class="footer-social-icons">
 					<a href="https://www.instagram.com/your__reaper/?hl=en"><i class="fa fa-instagram"></i></a>
 					<a href="https://www.facebook.com/serjo.lio?ref=tn_tnmn"><i class="fa fa-facebook"></i></a>
@@ -118,6 +101,28 @@
 				</div>
 				<!-- /Social Icons -->
 			</div>
+				<!-- /Profile Title -->
+				<!-- Description Text -->
+				<hr class="hr1">
+				<div class="vcard-profile-description-feature">
+					<!-- item -->
+					<div class="vcard-profile-description-ft-item">
+						<p><i class="fa fa-envelope"></i> <a href="mailto:sergiomanuellio@gmail.com?Subject=Hello%20Serjo" target="_top" style="color: #fff; text-decoration: underline;">sergiomanuellio@gmail.com</a> <br> <i class="fa fa-phone"></i> +639279420308</p>
+					</div>
+					<!-- item -->
+				</div>
+				<div class="vcard-profile-description-text">
+					<p>A professional Web Developer. With atleast 5 years of experience in the field of web development. </p>
+					<p>Looking for a interesting projects to apply my knowledge and skills while building up and growing your business.</p>
+					<p>Give me a call...</p>
+				</div>	
+				<!--/ Description Text -->	
+				<!-- Description feature -->
+					
+				<!-- /Description feature -->		
+			</div>
+			<!-- /Description -->	
+			<!-- Footer -->		
 		</div>
 		<!-- /SECTION: vCard Body  -->	
 
@@ -133,7 +138,7 @@
 	            <!-- Buttons -->
 	            <div class="resume-buttons header-page-buttons">
 	            	<!-- Download CV button -->
-					<a href="CV2019.pdf" class="btn btn-default btn-default2"><i class="fa fa-download"></i>&nbsp; Download my resume</a>
+					<a href="CV2020.pdf" class="btn btn-default btn-default2" download><i class="fa fa-download"></i>&nbsp; Download my resume</a>
 	            	<!-- /Download CV button -->
 	            	<!-- Get in Touch button -->
 					<a href="#page-contact" class="btn btn-default btn-default2 link-page"><i class="fa fa-download"></i>&nbsp;  Get in Touch</a>
@@ -177,7 +182,7 @@
                   	<h3 class="section-item-title-1">Gavatech / Traxion</h3>
                   	<!-- /Work Place -->
                   	<!-- Job Time -->
-                  	<h4 class="job">PHP Developer - <span class="job-date">2018 - Present</span></h4>
+                  	<h4 class="job">Web Developer - <span class="job-date">2018 - Present</span></h4>
                   	<!-- /Job Time-->
                   	<!-- content -->
                   	<div class="graduation-description">
@@ -200,7 +205,7 @@
                   	<h3 class="section-item-title-1">MAA General Assurance Phils., Inc.</h3>
                   	<!-- /Work Place -->
                   	<!-- Job Time -->
-                  	<h4 class="job">Junior Programmer - <span class="job-date">Sep 2015 - Aug 2018</span></h4>
+                  	<h4 class="job">Programmer - <span class="job-date">Sep 2015 - Aug 2018</span></h4>
                   	<!-- /Job Time-->
                   	<!-- content -->
                   	<div class="graduation-description">
@@ -336,57 +341,47 @@
 				<ul class="skills-list">
 					<li>
                       <div class="progress">
-                        <div class="progress-bar progress-bar-2" data-percent="70%" role="progressbar" style="width: 70%;">
-                            <span class="sr-only">70% PHP</span>
+                        <div class="progress-bar progress-bar-2" data-percent="80%" role="progressbar" style="width: 80%;">
+                            <span class="sr-only">80% PHP / Laravel / Codeigniter</span>
                         </div>
-                        <span class="progress-type">PHP</span>
-                        <span class="progress-completed">70%</span>
-                      </div>
-                    </li>
-                    <li>
-                      <div class="progress">
-                        <div class="progress-bar" data-percent="90%" role="progressbar" style="width: 90%;">
-                            <span class="sr-only">90% Complete</span>
-                        </div>
-                        <span class="progress-type">HTML5 / CSS3</span>
-                        <span class="progress-completed">90%</span>
-                      </div>
-                    </li>
-                    <li>
-                      <div class="progress">
-                        <div class="progress-bar progress-bar-3" data-percent="80%" role="progressbar" style="width: 80%;">
-                            <span class="sr-only">80% Complete</span>
-                        </div>
-                        <span class="progress-type">Bootstrap</span>
+                        <span class="progress-type">PHP / Laravel / Codeigniter</span>
                         <span class="progress-completed">80%</span>
                       </div>
                     </li>
                     <li>
                       <div class="progress">
-                        <div class="progress-bar" data-percent="60%" role="progressbar" style="width: 60%;">
-                            <span class="sr-only">60% Laravel</span>
+                        <div class="progress-bar progress-bar-3" data-percent="70%" role="progressbar" style="width: 70%;">
+                            <span class="sr-only">70% Python / Django</span>
                         </div>
-                        <span class="progress-type">Laravel</span>
-                        <span class="progress-completed">60%</span>
-                      </div>
-                    </li>
-                    
-                    <li>
-                      <div class="progress">
-                        <div class="progress-bar progress-bar-2" data-percent="70%" role="progressbar" style="width: 70%;">
-                            <span class="sr-only">70% Javascript</span>
-                        </div>
-                        <span class="progress-type">Javascript</span>
+                        <span class="progress-type">Python / Django</span>
                         <span class="progress-completed">70%</span>
                       </div>
                     </li>
                     <li>
                       <div class="progress">
-                        <div class="progress-bar progress-bar-2" data-percent="50%" role="progressbar" style="width: 50%;">
-                            <span class="sr-only">50% Wordpress</span>
+                        <div class="progress-bar" data-percent="80%" role="progressbar" style="width: 80%;">
+                            <span class="sr-only">80% Javascript</span>
+                        </div>
+                        <span class="progress-type">Javascript</span>
+                        <span class="progress-completed">80%</span>
+                      </div>
+                    </li>
+                    <li>
+                      <div class="progress">
+                        <div class="progress-bar progress-bar-2" data-percent="90%" role="progressbar" style="width: 90%;">
+                            <span class="sr-only">90% HTML5 / CSS3 / Bootstrap</span>
+                        </div>
+                        <span class="progress-type">HTML5 / CSS3 / Bootstrap</span>
+                        <span class="progress-completed">90%</span>
+                      </div>
+                    </li>
+                    <li>
+                      <div class="progress">
+                        <div class="progress-bar progress-bar-3" data-percent="60%" role="progressbar" style="width: 60%;">
+                            <span class="sr-only">60% Wordpress</span>
                         </div>
                         <span class="progress-type">Wordpress</span>
-                        <span class="progress-completed">50%</span>
+                        <span class="progress-completed">60%</span>
                       </div>
                     </li>
                     <li>
@@ -400,15 +395,15 @@
                     </li>
                     <li>
                       <div class="progress">
-                        <div class="progress-bar progress-bar-3" data-percent="80%" role="progressbar" style="width: 80%;">
-                            <span class="sr-only">80% JQuery</span>
+                        <div class="progress-bar progress-bar-2" data-percent="80%" role="progressbar" style="width: 80%;">
+                            <span class="sr-only">80% API / WebService / Ajax </span>
                         </div>
-                        <span class="progress-type">JQuery</span>
+                        <span class="progress-type">API / WebService / Ajax </span>
                         <span class="progress-completed">80%</span>
                       </div>
                     </li>
                   </ul>
-                  <p><strong>Others:</strong> Visual Basic / Datatables / PHPOffice / API / Composer / GIT / Microsoft Applications / Sublime / IDE / CMS / Photoshop</p>
+                  <p><strong>Others:</strong> Ubuntu Linux / React / Vue / Jquery / Redis / PHPOffice / API  / GIT / Microsoft Applications / Sublime / VS Code / Sendgrid / CMS / Photoshop</p>
 				 
 			</div>			
 		</div>
@@ -424,10 +419,10 @@
 
 	            <!-- Projects list -->
 				<div class="projects-list">
-
+					<!-- item -->
 					<div class="project-item">
 						<!-- ==> Put your thumbnail as a background -->
-						<a href="https://www.gavagives.com/" class="project-thumbnail nivobox" data-lightbox-gallery="portfolio" style="background-image: url('img/portfolio/gava.png');">
+						<a href="https://www.gavagives.tech/" target="_blank" class="project-thumbnail nivobox" data-lightbox-gallery="portfolio" style="background-image: url('img/portfolio/gava.png');">
 							<!-- project-description -->
 							<div class="project-description-wrapper">
 								<div class="project-description">
@@ -442,14 +437,14 @@
 					</div>
 					<div class="project-item">
 						<!-- ==> Put your thumbnail as a background -->
-						<a href="https://ifarms.ph/" class="project-thumbnail nivobox" data-lightbox-gallery="portfolio" style="background-image: url('img/portfolio/ifarms.png');">
+						<a href="https://dbtkco.com/" target="_blank" class="project-thumbnail nivobox" data-lightbox-gallery="portfolio" style="background-image: url('img/portfolio/dbtk.png');">
 							<!-- project-description -->
 							<div class="project-description-wrapper">
 								<div class="project-description">
 									<!-- project name -->
-									<h2 class="project-title">iFarms PH</h2>
+									<h2 class="project-title">DBTK</h2>
 									<!-- /project name -->
-									<span class="see-more">Redefining Philippine Agriculture</span>
+									<span class="see-more">Dont Blame The Kids Apparel</span>
 								</div>
 							</div>
 							<!-- /project-description -->
@@ -458,7 +453,7 @@
 					<br>
 					<div class="project-item">
 						<!-- ==> Put your thumbnail as a background -->
-						<a href="https://traxiontech.net/" class="project-thumbnail nivobox" data-lightbox-gallery="portfolio" style="background-image: url('img/portfolio/traxion.png');">
+						<a href="https://traxiontech.net/" target="_blank" class="project-thumbnail nivobox" data-lightbox-gallery="portfolio" style="background-image: url('img/portfolio/traxion.png');">
 							<!-- project-description -->
 							<div class="project-description-wrapper">
 								<div class="project-description">
@@ -493,7 +488,6 @@
 
 	            <div class="map">
 	            	<div class="map-overlay"></div>
-	            	<!-- <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d8352.985568651915!2d-0.12905994797222892!3d51.50665753790812!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47d8a00baf21de75%3A0x52963a5addd52a99!2sLondon%2C+UK!5e0!3m2!1spt-BR!2sbr!4v1443128181953" height="250" style="border:0" allowfullscreen></iframe> -->
 	            	<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3861.3678211349943!2d121.02021211484!3d14.57810478981684!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3397c9b0a6412981%3A0xc053819ec37a9789!2sM.+Aleataz%2C+Mandaluyong%2C+Metro+Manila!5e0!3m2!1sen!2sph!4v1533818661362" height="250" style="border:0" allowfullscreen></iframe>
 	            </div>
 
@@ -504,32 +498,10 @@
                 	<h4 class="contact-subtitle-1"><i class="fa fa-phone-square"></i>&nbsp; Phone</h4>
                 	<p>+639279420308</p>
                 	<h4 class="contact-subtitle-1"><i class="fa fa-envelope"></i>&nbsp; Mail</h4>
-                	<p>serjomlio@gmail.com</p>
+                	<p><a href="mailto:sergiomanuellio@gmail.com?Subject=Hello%20Serjo" target="_top" style="color: black; text-decoration: underline;">sergiomanuellio@gmail.com</a></p>
                 </div>
-                <!-- /Contact infos --> 
-
-	            <!-- Contact form -->
-	            <!-- <h4 class="contact-subtitle-1"><i class="fa fa-paper-plane-o"></i>&nbsp; Send Me a Message</h4>
-		        <form id="contactForm" method="post" class="form">
-		            <div class="form-group">
-		            	<input class="form-control required" id="name" name="name" placeholder="Name" type="text" required />
-		            </div>
-		            <div class="form-group">
-		            	<input class="form-control required" id="email" name="email" placeholder="Email" type="email" required />
-		            </div>
-		            <div class="form-group">
-		            	<input class="form-control required" id="subject" type="text" name="subject" placeholder="Subject" required>
-		            </div>
-		            <div class="form-group">
-		            	<textarea class="form-control required" id="message" name="message" placeholder="Message" rows="5" required></textarea>
-		            </div>
-		            <div class="form-group">
-		            	<input type="submit" class="btn btn-default form-send" value="Send!">
-		            </div> 
-		        </form> -->
-		        <!-- /Contact Form -->
 		        <br>
-				<p class="text-center"><strong><i>"Let's Talk Give me a Call"</i></strong></p>
+				<p class="text-center"><strong><i>"Give me a Call"</i></strong></p>
 			</div>			
 		</div>
 		<!-- /SECTION: CONTACT  -->	
@@ -538,31 +510,6 @@
 </section>
 <!-- /Main Content
 ================================================== -->
-
-<!-- Contact Form - Ajax Messages
-========================================================= -->
-<!-- Form Sucess -->
-<div class="form-result modal-wrap" id="contactSuccess">
-  <div class="modal-bg"></div>
-  <div class="modal-content">
-    <h4 class="modal-title"><i class="fa fa-check-circle"></i> Success!</h4>
-    <p>Your message has been sent to us.</p>
-  </div>
-</div>
-<!-- /Form Sucess -->
-<!-- form-error -->
-<div class="form-result modal-wrap" id="contactError">
-  <div class="modal-bg"></div>
-  <div class="modal-content">
-    <h4 class="modal-title"><i class="fa fa-times"></i> Error</h4>
-    <p>There was an error sending your message.</p>
-  </div>
-</div>
-<!-- /form-error -->
-
-<!-- Contact Form - Ajax Messages
-========================================================= -->
-
 
 <!-- >> JS
 ============================================================================== -->
