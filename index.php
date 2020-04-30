@@ -138,7 +138,7 @@
 	            <!-- Buttons -->
 	            <div class="resume-buttons header-page-buttons">
 	            	<!-- Download CV button -->
-					<a href="CV2020.pdf" class="btn btn-default btn-default2" download><i class="fa fa-download"></i>&nbsp; Download my resume</a>
+					<a href="CV2020-new.pdf" class="btn btn-default btn-default2" download><i class="fa fa-download"></i>&nbsp; Download my resume</a>
 	            	<!-- /Download CV button -->
 	            	<!-- Get in Touch button -->
 					<a href="#page-contact" class="btn btn-default btn-default2 link-page"><i class="fa fa-download"></i>&nbsp;  Get in Touch</a>
@@ -315,7 +315,7 @@
 				<!-- Buttons -->
 	            <div class="resume-buttons">
 	            	<!-- Download CV button -->
-					<a href="CV2019.pdf" class="btn btn-default btn-default2"><i class="fa fa-download"></i>&nbsp; Download my resume</a>
+					<a href="CV2020-new.pdf" class="btn btn-default btn-default2"><i class="fa fa-download"></i>&nbsp; Download my resume</a>
 	            	<!-- /Download CV button -->
 	            	<!-- Get in Touch button -->
 					<a href="#page-contact" class="btn btn-default btn-default2 link-page"><i class="fa fa-download"></i>&nbsp;  Get in Touch</a>
