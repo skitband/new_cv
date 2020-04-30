@@ -58,9 +58,7 @@
 
 <!-- Main Content
 ================================================== -->
-<div id="visitor-counter" style="float:right; margin-right: 15px;">
-	<a href='https://www.horando.de/en/'>Classic watches</a> <script type='text/javascript' src='https://www.freevisitorcounters.com/auth.php?id=30b5982995ef4150a670505e9f0a09453d7123c2'></script><script type="text/javascript" src="https://www.freevisitorcounters.com/en/home/counter/677141/t/2"></script>
-</div>
+<div class="vcard-profile-description-ft-item" style="float:right; margin-top: 10px;margin-right: 15px;color: #ffffff"> <span id="counter-text"> </span></div>
 <section id="body" class="">
 
 	<div class="container">
@@ -537,6 +535,7 @@
 <script src="vendor/cross-browser.js"></script>
 <!-- Main Scripts -->
 <script src="js/main.js"></script>
+<script src="js/visitor-counter.js"></script>
 
 <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
 <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
