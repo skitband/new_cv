@@ -58,6 +58,9 @@
 
 <!-- Main Content
 ================================================== -->
+<div id="visitor-counter" style="float:right; margin-right: 15px;">
+	<a href='https://www.horando.de/en/'>Classic watches</a> <script type='text/javascript' src='https://www.freevisitorcounters.com/auth.php?id=30b5982995ef4150a670505e9f0a09453d7123c2'></script><script type="text/javascript" src="https://www.freevisitorcounters.com/en/home/counter/677141/t/2"></script>
+</div>
 <section id="body" class="">
 
 	<div class="container">
@@ -506,7 +509,6 @@
 		</div>
 		<!-- /SECTION: CONTACT  -->	
 	</div>
-
 </section>
 <!-- /Main Content
 ================================================== -->
